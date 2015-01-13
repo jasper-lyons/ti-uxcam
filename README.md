@@ -9,3 +9,9 @@ Download the latest distribution ZIP-file and consult the [Titanium Documentatio
 This module currently only support the method [startApplicationWithKey(key:string)](http://uxcam.com/api#startApplicationWithKey)
 
 More additions to be made as and when user / I require them.
+
+##Author
+> Jasper Lyons
+email : jasper.lyons@gmail.com
+
+I am happy to accept pull requests after they have been reviewed etc.
