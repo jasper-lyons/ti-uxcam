@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 45;
+	objectVersion = 46;
 	objects = {
 
 /* Begin PBXAggregateTarget section */
@@ -22,18 +22,11 @@
 /* End PBXAggregateTarget section */
 
 /* Begin PBXBuildFile section */
-		24DD6CF91134B3F500162E58 /* ComLasuUxcamModule.h in Headers */ = {isa = PBXBuildFile; fileRef = 24DD6CF71134B3F500162E58 /* ComLasuUxcamModule.h */; };
-		24DD6CFA1134B3F500162E58 /* ComLasuUxcamModule.m in Sources */ = {isa = PBXBuildFile; fileRef = 24DD6CF81134B3F500162E58 /* ComLasuUxcamModule.m */; };
-		24DE9E1111C5FE74003F90F6 /* ComLasuUxcamModuleAssets.h in Headers */ = {isa = PBXBuildFile; fileRef = 24DE9E0F11C5FE74003F90F6 /* ComLasuUxcamModuleAssets.h */; };
-		24DE9E1211C5FE74003F90F6 /* ComLasuUxcamModuleAssets.m in Sources */ = {isa = PBXBuildFile; fileRef = 24DE9E1011C5FE74003F90F6 /* ComLasuUxcamModuleAssets.m */; };
-		4124F0001A5EBF2200FE7708 /* UXCam.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4124EFFF1A5EBF2200FE7708 /* UXCam.framework */; };
-		4124F0021A5EBF5800FE7708 /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4124F0011A5EBF5800FE7708 /* AVFoundation.framework */; };
-		4124F0041A5EBF6100FE7708 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4124F0031A5EBF6100FE7708 /* CoreGraphics.framework */; };
-		4124F0061A5EBF6A00FE7708 /* CoreMedia.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4124F0051A5EBF6A00FE7708 /* CoreMedia.framework */; };
-		4124F0081A5EBF7500FE7708 /* CoreVideo.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4124F0071A5EBF7500FE7708 /* CoreVideo.framework */; };
-		4124F00A1A5EBF8100FE7708 /* MobileCoreServices.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4124F0091A5EBF8100FE7708 /* MobileCoreServices.framework */; };
-		4124F00C1A5EBF8A00FE7708 /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4124F00B1A5EBF8A00FE7708 /* QuartzCore.framework */; };
-		4124F00E1A5EBF9200FE7708 /* SystemConfiguration.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4124F00D1A5EBF9200FE7708 /* SystemConfiguration.framework */; };
+		41DBDBA61A8953BA0000D505 /* UXCam.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 41DBDBA51A8953BA0000D505 /* UXCam.framework */; };
+		41DBDBAB1A8953F80000D505 /* ComLasuUxcamModuleAssets.h in Headers */ = {isa = PBXBuildFile; fileRef = 41DBDBA71A8953F80000D505 /* ComLasuUxcamModuleAssets.h */; };
+		41DBDBAC1A8953F80000D505 /* ComLasuUxcamModuleAssets.m in Sources */ = {isa = PBXBuildFile; fileRef = 41DBDBA81A8953F80000D505 /* ComLasuUxcamModuleAssets.m */; };
+		41DBDBAD1A8953F80000D505 /* ComLasuUxcamModule.h in Headers */ = {isa = PBXBuildFile; fileRef = 41DBDBA91A8953F80000D505 /* ComLasuUxcamModule.h */; };
+		41DBDBAE1A8953F80000D505 /* ComLasuUxcamModule.m in Sources */ = {isa = PBXBuildFile; fileRef = 41DBDBAA1A8953F80000D505 /* ComLasuUxcamModule.m */; };
 		AA747D9F0F9514B9006C5449 /* ComLasuUxcam_Prefix.pch in Headers */ = {isa = PBXBuildFile; fileRef = AA747D9E0F9514B9006C5449 /* ComLasuUxcam_Prefix.pch */; };
 		AACBBE4A0F95108600F1A2B1 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AACBBE490F95108600F1A2B1 /* Foundation.framework */; };
 /* End PBXBuildFile section */
@@ -49,19 +42,12 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		24DD6CF71134B3F500162E58 /* ComLasuUxcamModule.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ComLasuUxcamModule.h; path = Classes/ComLasuUxcamModule.h; sourceTree = "<group>"; };
-		24DD6CF81134B3F500162E58 /* ComLasuUxcamModule.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ComLasuUxcamModule.m; path = Classes/ComLasuUxcamModule.m; sourceTree = "<group>"; };
 		24DD6D1B1134B66800162E58 /* titanium.xcconfig */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xcconfig; path = titanium.xcconfig; sourceTree = "<group>"; };
-		24DE9E0F11C5FE74003F90F6 /* ComLasuUxcamModuleAssets.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ComLasuUxcamModuleAssets.h; path = Classes/ComLasuUxcamModuleAssets.h; sourceTree = "<group>"; };
-		24DE9E1011C5FE74003F90F6 /* ComLasuUxcamModuleAssets.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ComLasuUxcamModuleAssets.m; path = Classes/ComLasuUxcamModuleAssets.m; sourceTree = "<group>"; };
-		4124EFFF1A5EBF2200FE7708 /* UXCam.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = UXCam.framework; sourceTree = "<group>"; };
-		4124F0011A5EBF5800FE7708 /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
-		4124F0031A5EBF6100FE7708 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		4124F0051A5EBF6A00FE7708 /* CoreMedia.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreMedia.framework; path = System/Library/Frameworks/CoreMedia.framework; sourceTree = SDKROOT; };
-		4124F0071A5EBF7500FE7708 /* CoreVideo.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreVideo.framework; path = System/Library/Frameworks/CoreVideo.framework; sourceTree = SDKROOT; };
-		4124F0091A5EBF8100FE7708 /* MobileCoreServices.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MobileCoreServices.framework; path = System/Library/Frameworks/MobileCoreServices.framework; sourceTree = SDKROOT; };
-		4124F00B1A5EBF8A00FE7708 /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
-		4124F00D1A5EBF9200FE7708 /* SystemConfiguration.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SystemConfiguration.framework; path = System/Library/Frameworks/SystemConfiguration.framework; sourceTree = SDKROOT; };
+		41DBDBA51A8953BA0000D505 /* UXCam.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = UXCam.framework; sourceTree = "<group>"; };
+		41DBDBA71A8953F80000D505 /* ComLasuUxcamModuleAssets.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ComLasuUxcamModuleAssets.h; path = Classes/ComLasuUxcamModuleAssets.h; sourceTree = "<group>"; };
+		41DBDBA81A8953F80000D505 /* ComLasuUxcamModuleAssets.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ComLasuUxcamModuleAssets.m; path = Classes/ComLasuUxcamModuleAssets.m; sourceTree = "<group>"; };
+		41DBDBA91A8953F80000D505 /* ComLasuUxcamModule.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ComLasuUxcamModule.h; path = Classes/ComLasuUxcamModule.h; sourceTree = "<group>"; };
+		41DBDBAA1A8953F80000D505 /* ComLasuUxcamModule.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ComLasuUxcamModule.m; path = Classes/ComLasuUxcamModule.m; sourceTree = "<group>"; };
 		AA747D9E0F9514B9006C5449 /* ComLasuUxcam_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ComLasuUxcam_Prefix.pch; sourceTree = SOURCE_ROOT; };
 		AACBBE490F95108600F1A2B1 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		D2AAC07E0554694100DB518D /* libComLasuUxcam.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libComLasuUxcam.a; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -72,15 +58,8 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4124F00E1A5EBF9200FE7708 /* SystemConfiguration.framework in Frameworks */,
-				4124F00C1A5EBF8A00FE7708 /* QuartzCore.framework in Frameworks */,
-				4124F00A1A5EBF8100FE7708 /* MobileCoreServices.framework in Frameworks */,
-				4124F0081A5EBF7500FE7708 /* CoreVideo.framework in Frameworks */,
-				4124F0061A5EBF6A00FE7708 /* CoreMedia.framework in Frameworks */,
-				4124F0041A5EBF6100FE7708 /* CoreGraphics.framework in Frameworks */,
-				4124F0021A5EBF5800FE7708 /* AVFoundation.framework in Frameworks */,
 				AACBBE4A0F95108600F1A2B1 /* Foundation.framework in Frameworks */,
-				4124F0001A5EBF2200FE7708 /* UXCam.framework in Frameworks */,
+				41DBDBA61A8953BA0000D505 /* UXCam.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -98,7 +77,7 @@
 		0867D691FE84028FC02AAC07 /* uxcam */ = {
 			isa = PBXGroup;
 			children = (
-				4124EFFF1A5EBF2200FE7708 /* UXCam.framework */,
+				41DBDBA51A8953BA0000D505 /* UXCam.framework */,
 				08FB77AEFE84172EC02AAC07 /* Classes */,
 				32C88DFF0371C24200C91783 /* Other Sources */,
 				0867D69AFE84028FC02AAC07 /* Frameworks */,
@@ -110,13 +89,6 @@
 		0867D69AFE84028FC02AAC07 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				4124F00D1A5EBF9200FE7708 /* SystemConfiguration.framework */,
-				4124F00B1A5EBF8A00FE7708 /* QuartzCore.framework */,
-				4124F0091A5EBF8100FE7708 /* MobileCoreServices.framework */,
-				4124F0071A5EBF7500FE7708 /* CoreVideo.framework */,
-				4124F0051A5EBF6A00FE7708 /* CoreMedia.framework */,
-				4124F0031A5EBF6100FE7708 /* CoreGraphics.framework */,
-				4124F0011A5EBF5800FE7708 /* AVFoundation.framework */,
 				AACBBE490F95108600F1A2B1 /* Foundation.framework */,
 			);
 			name = Frameworks;
@@ -125,10 +97,10 @@
 		08FB77AEFE84172EC02AAC07 /* Classes */ = {
 			isa = PBXGroup;
 			children = (
-				24DE9E0F11C5FE74003F90F6 /* ComLasuUxcamModuleAssets.h */,
-				24DE9E1011C5FE74003F90F6 /* ComLasuUxcamModuleAssets.m */,
-				24DD6CF71134B3F500162E58 /* ComLasuUxcamModule.h */,
-				24DD6CF81134B3F500162E58 /* ComLasuUxcamModule.m */,
+				41DBDBA71A8953F80000D505 /* ComLasuUxcamModuleAssets.h */,
+				41DBDBA81A8953F80000D505 /* ComLasuUxcamModuleAssets.m */,
+				41DBDBA91A8953F80000D505 /* ComLasuUxcamModule.h */,
+				41DBDBAA1A8953F80000D505 /* ComLasuUxcamModule.m */,
 			);
 			name = Classes;
 			sourceTree = "<group>";
@@ -149,9 +121,9 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				41DBDBAD1A8953F80000D505 /* ComLasuUxcamModule.h in Headers */,
 				AA747D9F0F9514B9006C5449 /* ComLasuUxcam_Prefix.pch in Headers */,
-				24DD6CF91134B3F500162E58 /* ComLasuUxcamModule.h in Headers */,
-				24DE9E1111C5FE74003F90F6 /* ComLasuUxcamModuleAssets.h in Headers */,
+				41DBDBAB1A8953F80000D505 /* ComLasuUxcamModuleAssets.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -181,9 +153,10 @@
 		0867D690FE84028FC02AAC07 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastUpgradeCheck = 0600;
 			};
 			buildConfigurationList = 1DEB922208733DC00010E9CD /* Build configuration list for PBXProject "uxcam" */;
-			compatibilityVersion = "Xcode 3.1";
+			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 1;
 			knownRegions = (
@@ -224,8 +197,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				24DD6CFA1134B3F500162E58 /* ComLasuUxcamModule.m in Sources */,
-				24DE9E1211C5FE74003F90F6 /* ComLasuUxcamModuleAssets.m in Sources */,
+				41DBDBAC1A8953F80000D505 /* ComLasuUxcamModuleAssets.m in Sources */,
+				41DBDBAE1A8953F80000D505 /* ComLasuUxcamModule.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -267,6 +240,7 @@
 				GCC_WARN_UNUSED_VALUE = NO;
 				GCC_WARN_UNUSED_VARIABLE = NO;
 				INSTALL_PATH = /usr/local/lib;
+				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
 				LIBRARY_SEARCH_PATHS = "";
 				OTHER_CFLAGS = (
 					"-DDEBUG",
@@ -308,7 +282,7 @@
 				GCC_WARN_UNUSED_VALUE = NO;
 				GCC_WARN_UNUSED_VARIABLE = NO;
 				INSTALL_PATH = /usr/local/lib;
-				IPHONEOS_DEPLOYMENT_TARGET = 4.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
 				LIBRARY_SEARCH_PATHS = "";
 				OTHER_CFLAGS = "-DTI_POST_1_2";
 				OTHER_LDFLAGS = "-ObjC";
@@ -316,7 +290,6 @@
 				RUN_CLANG_STATIC_ANALYZER = NO;
 				SDKROOT = iphoneos;
 				USER_HEADER_SEARCH_PATHS = "";
-				"VALID_ARCHS[sdk=*]" = "arm64 armv7 armv7s i386";
 			};
 			name = Release;
 		};
@@ -344,6 +317,7 @@
 				GCC_WARN_UNUSED_VALUE = NO;
 				GCC_WARN_UNUSED_VARIABLE = NO;
 				INSTALL_PATH = /usr/local/lib;
+				ONLY_ACTIVE_ARCH = YES;
 				OTHER_CFLAGS = (
 					"-DDEBUG",
 					"-DTI_POST_1_2",
@@ -381,7 +355,7 @@
 				GCC_WARN_UNUSED_VALUE = NO;
 				GCC_WARN_UNUSED_VARIABLE = NO;
 				INSTALL_PATH = /usr/local/lib;
-				IPHONEOS_DEPLOYMENT_TARGET = 4.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
 				OTHER_CFLAGS = "-DTI_POST_1_2";
 				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_NAME = ComLasuUxcam;
