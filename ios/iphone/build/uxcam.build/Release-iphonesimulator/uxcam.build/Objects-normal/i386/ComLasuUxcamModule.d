@@ -1,6 +1,6 @@
 dependencies: \
-  /Users/jasperlyons/workspace/projects/lasu/uxcam/iphone/Classes/ComLasuUxcamModule.m \
-  /Users/jasperlyons/workspace/projects/lasu/uxcam/iphone/Classes/ComLasuUxcamModule.h \
+  /Users/jasperlyons/workspace/projects/lasu/uxcam/ios/iphone/Classes/ComLasuUxcamModule.m \
+  /Users/jasperlyons/workspace/projects/lasu/uxcam/ios/iphone/Classes/ComLasuUxcamModule.h \
   /Users/jasperlyons/Library/Application\ Support/Titanium/mobilesdk/osx/3.5.0.GA/iphone/include/TiModule.h \
   /Users/jasperlyons/Library/Application\ Support/Titanium/mobilesdk/osx/3.5.0.GA/iphone/include/TiProxy.h \
   /Users/jasperlyons/Library/Application\ Support/Titanium/mobilesdk/osx/3.5.0.GA/iphone/include/TiBase.h \
@@ -31,4 +31,4 @@ dependencies: \
   /Users/jasperlyons/Library/Application\ Support/Titanium/mobilesdk/osx/3.5.0.GA/iphone/include/TiHost.h \
   /Users/jasperlyons/Library/Application\ Support/Titanium/mobilesdk/osx/3.5.0.GA/iphone/include/Bridge.h \
   /Users/jasperlyons/Library/Application\ Support/Titanium/mobilesdk/osx/3.5.0.GA/iphone/include/TiStylesheet.h \
-  /Users/jasperlyons/workspace/projects/lasu/uxcam/iphone/UXCam.framework/Headers/UXCam.h
+  /Users/jasperlyons/workspace/projects/lasu/uxcam/ios/iphone/UXCam.framework/Headers/UXCam.h
