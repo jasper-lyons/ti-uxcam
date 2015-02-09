@@ -11,6 +11,11 @@
 // How to add a Framework (example)
 //
 // OTHER_LDFLAGS=$(inherited) -framework Foo
+FRAMEWORK_SEARCH_PATHS=$(SRCROOT)/../../modules/iphone/com.lasu.uxcam/1.0.0/platform /Library/Application\ Support/Titanium/modules/iphone/com.lasu.uxcam/1.0.0/platform ~/Library/A
+pplication\ Support/Titanium/modules/iphone/com.lasu.uxcam/1.0.0/platform
+
+OTHER_LDFLAGS=$(inherited)  -framework UXCam -framework SystemConfiguration -framework QuartzCore -framework MobileCoreServices -framework CoreVideo -framework CoreMedia -framework
+ CoreGraphics -framework AVFoundation -framework Foundation
 //
 // Adding a framework for a specific version(s) of iPhone:
 //
